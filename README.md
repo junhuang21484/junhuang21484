@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jun Huang</h1>
 <h3 align="center">A passionate full stack developer coming into the field</h3>
 
-- 👨‍💻 Checkout my portfolio at []https://www.jun-huang.info/(https://www.jun-huang.info/)
+- 👨‍💻 Checkout my portfolio at [https://www.jun-huang.info/](https://www.jun-huang.info/)
 
 - 💬 Ask me about **Front-end or Back-end development**
 
